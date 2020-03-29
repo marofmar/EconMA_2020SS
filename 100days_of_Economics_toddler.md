@@ -8,6 +8,13 @@
 * Friday Class: Macroeconomics 
 * Finished taking Statistics reviewing online lectures (Econometrics supplementary lectures)
 * Tried to open an account to have an API access to make a stock trading program, but halted. Should try again in next week.
-
 * Took Macroeconomics online lecture, learned about Hamiltonian. Should check other resources on Youtube and read textbook for better understanding. 
 * Organized this week's class slides and notes in binders.
+
+#### Day 03: March 28 2020 Sat
+* Found my Intro to Statistics notes, and studied them. I was a good student indeed. 
+
+#### Day 04: March 29 2020 Sun
+* Submitted Behavior Economics homework2
+* Codecademy C+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
