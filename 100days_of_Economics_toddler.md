@@ -17,4 +17,10 @@
 #### Day 04: March 29 2020 Sun
 * Submitted Behavior Economics homework2
 * Codecademy C+
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+* Reviewing my old Stat notes
+ 
+#### Day 05: March 30 2020 Mon
+* Monday Class: Algorithms and its applications
+* Reviewed recursive algorithms, and learned about stack, data structure
+* Finished taking second week Macroeconomics video lectures; Hamiltonian and optimal control 
+* Codecademy! 
