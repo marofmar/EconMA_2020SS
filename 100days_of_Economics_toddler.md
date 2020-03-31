@@ -27,7 +27,7 @@
 
 #### Day 06: March 31 2020 Tue
 * Tuesday Class: undergrad Macroeconomics, undergrad Econometrics
-* I cannot believe the undergrad courses, I cannot explain the content to others. I neeeed to STUDY!
+* I cannot believe the undergrad course contents which I took years ago,, sounds unfamiliar, and cannot explain the concepts in coherent ways to anyone! I neeeed to STUDY!
 * And I have to admit that I forgot much of the basic Economics. Gotta work harder to be able to write my paper in this semester. 
 * Reviewing math, as I forgot much of them.
 * Spliting time in 15minutes and allocating tasks in small unit works for me. 
