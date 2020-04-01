@@ -31,3 +31,7 @@
 * And I have to admit that I forgot much of the basic Economics. Gotta work harder to be able to write my paper in this semester. 
 * Reviewing math, as I forgot much of them.
 * Spliting time in 15minutes and allocating tasks in small unit works for me. 
+
+#### Day 07: April 01 2020 Wed
+* Supposed to review and preview Econometrics and Macro, but spent time reading Microeconomics note "Econ 121b: Intermediate Microeconomics" by Professor Dirk Bergemann
+* While reading 5.3 'Optimization Using the Lagrange Approach', found connections between Lagrangian multiplier and regularization algorithms in Deep learning. Everything is connected, and nothing new under the Sun! Yey! 
