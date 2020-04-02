@@ -35,3 +35,9 @@
 #### Day 07: April 01 2020 Wed
 * Supposed to review and preview Econometrics and Macro, but spent time reading Microeconomics note "Econ 121b: Intermediate Microeconomics" by Professor Dirk Bergemann
 * While reading 5.3 'Optimization Using the Lagrange Approach', found connections between Lagrangian multiplier and regularization algorithms in Deep learning. Everything is connected, and nothing new under the Sun! Yey! 
+
+#### Day 08: April 02 2020 Thur
+* Joined LeetCode 30 Day Leetcoding Challenge! Yay!
+* Finished Behavioral Economics homework 3, and submitted
+* Participated in an Economic experiment conducted in Behavioral Economics class and got 20 points
+* Thursday class: Econometrics-undergrad, Macroeconomics-undergrad, gotta review the content ASAP! 
