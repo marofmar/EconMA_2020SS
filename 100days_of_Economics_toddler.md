@@ -41,3 +41,6 @@
 * Finished Behavioral Economics homework 3, and submitted
 * Participated in an Economic experiment conducted in Behavioral Economics class and got 20 points
 * Thursday class: Econometrics-undergrad, Macroeconomics-undergrad, gotta review the content ASAP! 
+
+#### Day 09: April 03 2020 Fri
+* NYU Deep Learning Spring 2020, Week 1 Lecture 
