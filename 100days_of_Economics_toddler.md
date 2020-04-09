@@ -44,3 +44,11 @@
 
 #### Day 09: April 03 2020 Fri
 * NYU Deep Learning Spring 2020, Week 1 Lecture 
+
+#### Day 10: April 05 2020 Sun
+* Contributed as a Korean translator to the NYU Pytorch Deep Learning course materials (Spring 2020)
+
+#### Day 11: April 09 2020 Thur
+* I thought todays was Wed, so missed 2 Thursday classes.... I can't believe this.......
+* I am reading Ch6 Value Function and Comparative Statics of Econ121b: Intermediate MicroEcon
+
