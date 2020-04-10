@@ -43,7 +43,7 @@
 * Thursday class: Econometrics-undergrad, Macroeconomics-undergrad, gotta review the content ASAP! 
 
 #### Day 09: April 03 2020 Fri
-* NYU Deep Learning Spring 2020, Week 1 Lecture 
+* NYU Deep Learning Spring 2020, Week 1 Lecture 1/2
 
 #### Day 10: April 05 2020 Sun
 * Contributed as a Korean translator to the NYU Pytorch Deep Learning course materials (Spring 2020)
@@ -51,4 +51,8 @@
 #### Day 11: April 09 2020 Thur
 * I thought todays was Wed, so missed 2 Thursday classes.... I can't believe this.......
 * I am reading Ch6 Value Function and Comparative Statics of Econ121b: Intermediate MicroEcon
+* Watched MIT Algorithm lecture video about Dynamic Programming, it was fun. 
 
+#### Day 12: April 10 2020 Fri
+* NYU Deep Learning Spring 2020, Week 1 Lecture 2/2
+> Last question and answer about PCA, that was truly interesting, PCA only works when the manifold is linear, unless it will not tell anything, as it cannot find anything there. 
