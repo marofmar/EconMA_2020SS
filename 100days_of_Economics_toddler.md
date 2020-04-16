@@ -56,3 +56,11 @@
 #### Day 12: April 10 2020 Fri
 * NYU Deep Learning Spring 2020, Week 1 Lecture 2/2
 > Last question and answer about PCA, that was truly interesting, PCA only works when the manifold is linear, unless it will not tell anything, as it cannot find anything there. 
+
+#### Day 13: April 12 2020 Sun
+* Behavioral Economics online lectures: Fehr Schmidt model 
+* Submitted a paper describing a situation that FS model can be used to analyze
+
+#### Day 14: April 16 2020 Thur
+* Behavioral Economics Zoom online class, learned about Market Game which has two proposers and one responder. This game can be analyzed with FS model.
+* Econometrics (Undergrad) Zoom online class, today, finally I really understand what maximum likelihood is.... Happy! 
