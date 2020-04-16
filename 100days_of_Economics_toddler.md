@@ -63,4 +63,4 @@
 
 #### Day 14: April 16 2020 Thur
 * Behavioral Economics Zoom online class, learned about Market Game which has two proposers and one responder. This game can be analyzed with FS model.
-* Econometrics (Undergrad) Zoom online class, today, finally I really understand what maximum likelihood is.... Happy! 
+* Econometrics (Undergrad) Zoom online class, today, finally I really understand what maximum likelihood is. Before, I could not be able to explain the difference between probability and maximum likelihood. To be honest, I mixed two different terms indicating the same thing. I should study more and more and more.
