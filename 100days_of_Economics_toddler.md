@@ -64,3 +64,47 @@
 #### Day 14: April 16 2020 Thur
 * Behavioral Economics Zoom online class, learned about Market Game which has two proposers and one responder. This game can be analyzed with FS model.
 * Econometrics (Undergrad) Zoom online class, today, finally I really understand what maximum likelihood is. Before, I could not be able to explain the difference between probability and maximum likelihood. To be honest, I mixed two different terms indicating the same thing. I should study more and more and more.
+
+#### Day 15: April 19 2020 Sun
+* Math for Economics reviewed as I forgot a lot of them
+* Translated week6 of PyTorch Deep Learning into Korean
+
+#### Day 16: April 20 2020 Mon
+* Monday class: Algorithms and their applications
+* Reviewed Brute Force and learned about Divide-and-Conquer
+
+#### Day 17: April 22 2020 Wed
+* Studied OS scheduling algorithms such as SJT, SRT and so forth. Submitted homework
+* Reading Rudin's Principles of Mathematical Analysis
+* Very interested in Manim(https://github.com/3b1b/manim) 
+
+#### Day 18: April 23 2020 Thur
+* Undergrad Econometrics and Macroeconomics classes
+* Maximum likelihood, Score matrix, Solow growth model
+
+#### Day 19: April 26 2020 Sun
+* Finished Korean translation about Deep Learning Pytorch Lesson6 (https://github.com/marofmar/pytorch-Deep-Learning/blob/master/docs/ko/week06/06-1.md)
+
+#### Day 20: April 29 
+* Stochastic processes 1; Simple random walk, Markov chain, Martingale
+* VAR
+
+#### Day 21: April 30
+* Stochastic proesses 2; Brownian motions, Ito's calculs
+
+#### Day 22: May 01
+* Ito's Calculus
+* Microeconomics binge watching (MIT 14.01SC Principles of Microeconomics)
+
+#### Day 23: May 02
+* Microeconomics binge watching
+
+#### Day 24: May 05
+* Econometrics, Specification Search
+* Macroeconomics, Dynamic models
+* Microeconomics, Youtube reiveiw
+
+#### Day 25: May 06
+* Panel Analysis
+* Joined Leetcode May challenge
+
