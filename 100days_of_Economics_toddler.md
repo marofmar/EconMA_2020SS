@@ -105,6 +105,29 @@
 * Microeconomics, Youtube reiveiw
 
 #### Day 25: May 06
-* Panel Analysis
+* Panel Analysis class prep, reading lecture notes, browing youtube classes
 * Joined Leetcode May challenge
+
+#### Day 26: May 07
+* Panel Analysis lecture note, Econometrics Youtube lectures
+* Manim.... difficult..... burdening task..... Manim....
+* Behavioral Econoimics, Public game model
+
+#### Day 27: May 08
+* Econometrics: Endogeniety, Gauss-Markov, etc
+
+#### Day 28: May 11
+* Algorithms homework
+* Got to know about great MITOCW courses!! 
+`
+mit Gilbert Strang, LR in Vision 
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek
+
+MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018 (Linar Algebra and Learning from Data)
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+
+`
+* Submitted Behavioral Econ 8th HW, reading a paper about Ultimate Game
+
+
 
