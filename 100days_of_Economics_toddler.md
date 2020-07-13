@@ -130,4 +130,8 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 * Submitted Behavioral Econ 8th HW, reading a paper about Ultimate Game
 
 
-
+#### Day 29: July 11
+* Passed comprehensive exam to submit my thesis paper! Yey!
+* Working on translating PyTorch Deep Learning 07-2.md into Korean
+* Today's Economist posting to reaed: Bartleby-Parkinson's law updated
+* GRE: read five pages of math workbook haha
