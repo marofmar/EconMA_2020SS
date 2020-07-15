@@ -135,3 +135,7 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 * Working on translating PyTorch Deep Learning 07-2.md into Korean
 * Today's Economist posting to reaed: Bartleby-Parkinson's law updated
 * GRE: read five pages of math workbook haha
+
+#### Day 30: July 15
+* Social and Economic Network Analysis: coursera course, working on week 1 materials
+* Pytorch Deep Learning translation working on 07-2.md
