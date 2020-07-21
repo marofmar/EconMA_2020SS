@@ -131,3 +131,7 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 
 
 
+#### Day 29: July 4
+* July 3 - done with the exams! 
+* re-started to contribute to PyTorch deeplearning Korean translation
+* Now, let's write a paper! yey!
