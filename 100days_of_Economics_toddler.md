@@ -130,8 +130,22 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 * Submitted Behavioral Econ 8th HW, reading a paper about Ultimate Game
 
 
+<<<<<<< HEAD
 
 #### Day 29: July 4
 * July 3 - done with the exams! 
 * re-started to contribute to PyTorch deeplearning Korean translation
 * Now, let's write a paper! yey!
+||||||| d6ac1d1
+
+=======
+#### Day 29: July 11
+* Passed comprehensive exam to submit my thesis paper! Yey!
+* Working on translating PyTorch Deep Learning 07-2.md into Korean
+* Today's Economist posting to reaed: Bartleby-Parkinson's law updated
+* GRE: read five pages of math workbook haha
+
+#### Day 30: July 15
+* Social and Economic Network Analysis: coursera course, working on week 1 materials
+* Pytorch Deep Learning translation working on 07-2.md
+>>>>>>> 851782fc4b7fcfec00969e95d6d8c17c86a745f0
